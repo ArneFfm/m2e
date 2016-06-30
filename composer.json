@@ -1,0 +1,8 @@
+{
+    "name":"ess/m2e-pro",
+    "type":"magento-module",
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
+
